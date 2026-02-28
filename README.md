@@ -25,6 +25,7 @@ This solution introduces proactive crowd & security intelligence powered by AI, 
 <hr>
 🎬 Demo Prototype Video
   🔗 https://x.com/i/status/2027668103883378983
+  
 <p align="center">
   <img src="assets/image_2.png" alt="image_2" width="300"/>
 </p>
